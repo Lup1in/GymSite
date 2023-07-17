@@ -1,0 +1,19 @@
+.main-bg {
+    background-color: white;
+    padding-top: 3.5rem;
+}
+
+.main-content {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: var(--gap);
+}
+
+
+.black-bg {
+    background-image: url(/imgs/wavey-fingerprint\ \(1\).svg);
+}
+
+.black-bg {
+    background-image: url(/imgs/wavey-fingerprint\ \(1\).svg);
+}
